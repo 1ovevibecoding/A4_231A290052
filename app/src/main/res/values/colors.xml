@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="color_accent">#0288D1</color>
+    <color name="surface_card">#F8FAFC</color>
+    <color name="card_border">#E2E8F0</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="color_result">#1565C0</color>
+
+    <!-- Màu phân loại BMI (Bài nâng cao NC3) -->
+    <color name="bmi_under_color">#1E88E5</color>
+    <color name="bmi_normal_color">#2E7D32</color>
+    <color name="bmi_over_color">#F57C00</color>
+    <color name="bmi_obese_color">#D32F2F</color>
+</resources>

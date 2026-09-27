@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A4_231A290052</string>
+    <string name="title">Lab A4 – Máy tính &amp; BMI</string>
+    <string name="student">Huỳnh Anh Tuấn – MSSV 231A290052</string>
+    <string name="section_calc">1. Máy tính bốn phép toán &amp; Nâng cao</string>
+    <string name="section_bmi">2. Tính chỉ số BMI (Chuẩn WHO Châu Á)</string>
+    <string name="hint_a">Số thứ nhất (A)</string>
+    <string name="hint_b">Số thứ hai (B)</string>
+    <string name="op_add">+</string>
+    <string name="op_sub">−</string>
+    <string name="op_mul">×</string>
+    <string name="op_div">÷</string>
+    <string name="op_mod">%</string>
+    <string name="op_neg">±</string>
+    <string name="clear">Xóa trắng</string>
+    <string name="result_placeholder">Kết quả: —</string>
+    <string name="hint_weight">Cân nặng (kg)</string>
+    <string name="hint_height">Chiều cao (m hoặc cm)</string>
+    <string name="calc_bmi">Tính BMI</string>
+    <string name="bmi_under">Thiếu cân (Dưới 18.5)</string>
+    <string name="bmi_normal">Bình thường (18.5 – 22.9)</string>
+    <string name="bmi_over">Thừa cân (23 – 24.9)</string>
+    <string name="bmi_obese">Béo phì (Từ 25 trở lên)</string>
+    <string name="err_empty">Không được để trống</string>
+    <string name="err_not_number">Vui lòng nhập đúng định dạng số</string>
+    <string name="err_divide_zero">Không thể chia cho 0</string>
+    <string name="err_positive">Cân nặng và chiều cao phải lớn hơn 0</string>
+    <string name="err_weight_positive">Cân nặng phải lớn hơn 0</string>
+    <string name="err_height_positive">Chiều cao phải lớn hơn 0</string>
+
+    <!-- Nâng cao NC2: Lịch sử -->
+    <string name="history_title">Lịch sử 5 phép tính gần nhất (NC2):</string>
+    <string name="history_empty">Chưa có phép tính nào trong lịch sử</string>
+    <string name="clear_history">Xóa lịch sử</string>
+</resources>
